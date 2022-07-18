@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://i.imgur.com/3NzS2ML.png" alt="Lavender" /></a>
+    <a href="serenitylavender.xyz"><img src="https://i.imgur.com/3NzS2ML.png" alt="Lavender" /></a>
 </div>
 
 ## Heya, I'm Lavender!
