@@ -10,7 +10,7 @@ I'm just some dumb folf on the interwebs who happens to have a passion for codin
 
 [![Languages I use](https://skillicons.dev/icons?i=js,ts,html,css,scss,nodejs,react)](https://skillicons.dev)
 
-[![Languages I use 2](https://skillicons.dev/icons?i=nextjs,cs,cpp,git)](https://skillicons.dev)
+[![Languages I use 2](https://skillicons.dev/icons?i=nextjs,cs,cpp,git,php)](https://skillicons.dev)
 
 
 #### Other Things:
